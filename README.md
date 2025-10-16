@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anshuman `Aavyuh` Maurya  
+# 👋 Hi, I'm Anshuman Maurya  
 
 🎓 **Electrical Engineering Diploma Student** — Lucknow, India  
 
@@ -27,6 +27,13 @@ I’ve started building **Aeronix Aavyuh** as a place for my projects and ideas.
 - **Programming Basics:** Python, C (learning)  
 - **Web Basics:** HTML, CSS, JavaScript (learning)  
 - **Tools:** Git & GitHub (learning to upload & manage code)
+
+---
+
+## 🌐 Live Projects & Websites
+- [💡 Aeronix Aavyuh Edu Hub](https://aeronixaavyuh.github.io/Educational-Website-for-Demo/)  
+- [⚙️ Web Apps Showcase](https://aeronixaavyuh.github.io/Project-1/)
+- [🔗 Food Services Website](https://your-username.github.io/aeronix-aavyuh/)  
 
 ---
 
