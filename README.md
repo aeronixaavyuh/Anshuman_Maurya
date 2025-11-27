@@ -5,7 +5,6 @@
 💡 **Who am I?**  
 I’m an engineering student passionate about **Electrical & Electronics concepts**  
 and equally curious about **Coding, Web Development & Innovative Technologies**.  
-I’ve started building **Aeronix Aavyuh** as a place for my projects and ideas.
 
 ---
 
@@ -18,7 +17,6 @@ I’ve started building **Aeronix Aavyuh** as a place for my projects and ideas.
 ## 🎯 Goals
 - Integrate **Electrical Engineering + Coding** to create smart, innovative projects  
 - Share my learning journey and projects on GitHub for others to see and collaborate  
-- Launch **Aeronix Aavyuh** as my personal brand for projects and innovations  
 
 ---
 
