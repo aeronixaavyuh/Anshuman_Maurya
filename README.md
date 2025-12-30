@@ -36,5 +36,5 @@ and equally curious about **Coding, Web Development & Innovative Technologies**.
 ---
 
 ## 📫 Contact Me
-- ✉️ **Email:** aeronixaavyuh@gmail.com  
+- ✉️ **Email:** avinashmaurya1677@gmail.com  
 - 💬 Feel free to connect if you’re interested in Electrical, Coding or Web Dev collaborations!
